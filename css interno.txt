@@ -1,0 +1,51 @@
+<DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>CSS Interno</title>
+<style type="text/CSS">
+body{
+background-color:#333;
+color:white;
+padding:50px;
+}
+h1{
+color:yellow;
+}
+p{
+font-size:18px;
+}
+h3{
+color:orange;
+}
+ol{
+background:white;
+color:#333;
+padding:30px;
+width:100px;
+}
+</style>
+</nead>
+<body>
+<h1>Esta vez aplicaremos css interno</h1>
+<p>Lorem ipsum dolor sit amed consectetur adipsicing elit, sed do eismod tempor incididunt ut labore et dolore magma aliqua ut 
+enim and minim veniam, quis nostrud exercitation ullamco luboris nisi ut aliquip ex eq commodo consequat. Duis aute irure 
+dolor in reprechenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occa ecat cupidatat 
+nonproident, sunt in culpa qui officia deserunt mollit anim id est aborum.</p>
+<p>Estoy seguro de que al dolor le seguirá una reducción de peso, pero sucederá al mismo tiempo que el trabajo y el dolor del magma.
+porque vendré a ti, ¿quién podrá ejercer cualquiera de tus placeres a menos que resulte en algún beneficio de ello? O ir a casa
+dolor en reprensión en placer quiere ser un pelo del dolor y esperanza que no haya nacimiento. Excepto que son codiciosos y codiciosos.
+no proceden, tienen culpa los que abandonan sus deberes, la mente se ablanda, es decir, aborus.</p>
+<h3>Maneras de incluir el CSS</h3>
+<ol>
+<li>Inline</li>
+<li>Interno</li>
+<li>Externo</li>
+</ol>
+<h6 align=right><font face="calibri"color="white">
+Nombre: Rodriguez Esparza Natalia Yamile<br>
+Grupo: 4CPM Maestra: Bertha Perez<br>
+"Tienes el poder de crear todo lo que te propongas"</font></h6>
+<hr>
+</body>
+</html>
